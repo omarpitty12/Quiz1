@@ -1,0 +1,8 @@
+Python es un lenguaje de scripting independiente de plataforma y orientado a objetos, preparado para realizar cualquier tipo de
+ programa, desde aplicaciones Windows a servidores de red, páginas web o incluso, aplicaciones android. Es un lenguaje 
+interpretado, lo que significa que no se necesita compilar el código fuente para poder ejecutarlo, lo que ofrece ventajas
+ como la rapidez de desarrollo e inconvenientes como una menor velocidad. 
+El creador del lenguaje es un europeo llamado Guido Van Rossum. Hace ya más de una década que diseño Python, ayudado y motivado
+ por su experiencia en la creación de otro lenguaje llamado ABC. El objetivo de Guido era cubrir la necesidad de un lenguaje 
+orientado a objetos de sencillo uso que sirviese para tratar diversas tareas dentro de la programación que habitualmente
+ se hacía en Unix usando C.
